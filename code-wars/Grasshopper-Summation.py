@@ -49,6 +49,9 @@
 
 # 4. Return summation (solution)
 #############################################################################################################
+
+###### Solution ######
+
 def summation(num):
     summation = sum(range(1,num+1))
     if summation <= 0:
